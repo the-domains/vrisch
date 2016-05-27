@@ -1,21 +1,30 @@
+name: VRisch
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/395e3046-8c1d-41fb-818e-703adcfbb091.ico'
+layout_spectrum: 0.7014921251684427
 typography_spectrum: 0.6447258768603206
-color:
-  brandStrength: 0.39281599735841155
-  lightness: 0.4877115972340107
-  saturation: 0.3645994900725782
-  rhythmicContrast: 0.7550953740719706
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/be91bf13-2382-417c-b937-56a942209c6f.png'
+title: ''
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
   image: null
   type: business.business
   appId: vrischvr
-layout_spectrum: 0.7014921251684427
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/be91bf13-2382-417c-b937-56a942209c6f.png'
-name: VRisch
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/395e3046-8c1d-41fb-818e-703adcfbb091.ico'
-title: ''
+color:
+  brandColors:
+    - '#ffffff'
+    - '#cf3c4c'
+    - '#efa0c5'
+    - '#000000'
+    - '#7d7d7d'
+  brandStrength: 0.625
+  lightness: 0.4877115972340107
+  saturation: 0.3645994900725782
+  rhythmicContrast: 0.7550953740719706
+purpose: []
