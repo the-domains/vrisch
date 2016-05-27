@@ -1,7 +1,7 @@
 name: VRisch
 favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/395e3046-8c1d-41fb-818e-703adcfbb091.ico'
-layout_spectrum: 0.25759
-typography_spectrum: 0.55889
+layout_spectrum: 0.40842
+typography_spectrum: 0.39703
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/be91bf13-2382-417c-b937-56a942209c6f.png'
 title: ''
 cta:
@@ -23,8 +23,8 @@ color:
     - '#efa0c5'
     - '#000000'
     - '#7d7d7d'
-  brandStrength: 0.25
+  brandStrength: 0.1875
   lightness: 0.4877115972340107
-  saturation: 0.6875
+  saturation: 0.5625
   rhythmicContrast: 0.25
 purpose: []
